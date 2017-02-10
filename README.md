@@ -1,6 +1,6 @@
 # jquery.threelevelcategoryselect
 三级联动下拉菜单 只需几行代码就可实现三级联动功能。使用场景：省市区、商品三级分类等。
-
+详细介绍请参考：http://www.cnblogs.com/eggTwo/p/5991925.html
 #核心功能
 * 可以根据需要设置是否显示“请选择”项
 * 支持回调(在三级分类加载完成后触发回调事件)
